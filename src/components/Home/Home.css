@@ -1,0 +1,21 @@
+input:focus{
+    outline: none;
+}
+div.right_side_bar{
+    position: fixed;
+    right: 30px;
+    top: 10px;
+    
+}
+.left_sidebar{
+    position: sticky;
+    top: 0px;
+    height: fit-content;
+}
+.sidebar__profile_photo{
+    width: 43px;
+}
+.sidebar__logo{
+    display: block;
+    margin: 37px 0px 20px 10px;
+}
